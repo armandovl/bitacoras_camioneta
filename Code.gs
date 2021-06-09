@@ -209,5 +209,4 @@ function imprimir(parametro1){
 }
 
 
-/*poner en carpetas*/
 
