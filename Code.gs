@@ -198,13 +198,13 @@ function global(argumentoTerritorio,argumentoIdCarpeta){
 
     } //aquì termina el for
 
-
+imprimir();
 
 }// aqui termina la funcion global
 
 
-function imprimir(parametro1){
-	Browser.msgBox(parametro1)
+function imprimir(){
+	Browser.msgBox("fin de la funcion")
 
 }
 
